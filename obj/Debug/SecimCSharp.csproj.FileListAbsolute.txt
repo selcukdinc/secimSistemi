@@ -1,0 +1,11 @@
+C:\Users\selcu\Masaüstü\SQL\(Ders2)SecimSistemi\SecimCSharp\bin\Debug\SecmiCSharp.exe.config
+C:\Users\selcu\Masaüstü\SQL\(Ders2)SecimSistemi\SecimCSharp\bin\Debug\SecmiCSharp.exe
+C:\Users\selcu\Masaüstü\SQL\(Ders2)SecimSistemi\SecimCSharp\bin\Debug\SecmiCSharp.pdb
+C:\Users\selcu\Masaüstü\SQL\(Ders2)SecimSistemi\SecimCSharp\obj\Debug\SecimCSharp.csproj.AssemblyReference.cache
+C:\Users\selcu\Masaüstü\SQL\(Ders2)SecimSistemi\SecimCSharp\obj\Debug\SecmiCSharp.FrmOyGiris.resources
+C:\Users\selcu\Masaüstü\SQL\(Ders2)SecimSistemi\SecimCSharp\obj\Debug\SecmiCSharp.FrmGrafikler.resources
+C:\Users\selcu\Masaüstü\SQL\(Ders2)SecimSistemi\SecimCSharp\obj\Debug\SecmiCSharp.Properties.Resources.resources
+C:\Users\selcu\Masaüstü\SQL\(Ders2)SecimSistemi\SecimCSharp\obj\Debug\SecimCSharp.csproj.GenerateResource.cache
+C:\Users\selcu\Masaüstü\SQL\(Ders2)SecimSistemi\SecimCSharp\obj\Debug\SecimCSharp.csproj.CoreCompileInputs.cache
+C:\Users\selcu\Masaüstü\SQL\(Ders2)SecimSistemi\SecimCSharp\obj\Debug\SecmiCSharp.exe
+C:\Users\selcu\Masaüstü\SQL\(Ders2)SecimSistemi\SecimCSharp\obj\Debug\SecmiCSharp.pdb
